@@ -69,7 +69,8 @@ Interested in scientific software
 - ReportLab
 
 ---
---->
+
 ## Contact
+--->
 
 Based in Bosnia / Serbia  
