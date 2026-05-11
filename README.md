@@ -25,6 +25,11 @@ Interested in scientific software
  - Python
 
 ---
+
+## Currently Working On (Pet Project)
+ - SCad
+
+---
 <!---
 ## Currently Learning / Working On
 
