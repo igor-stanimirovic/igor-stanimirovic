@@ -15,10 +15,14 @@ Interested in scientific software
 
 ## Interests
 
-- Physics and Applied Mathematics
+- Physics and Mathematics
 - C++ and Systems Programming
 - CAD Design and 3D Modeling
 - Finance
+
+ ### Languages
+ - C++
+ - Python
 
 ---
 <!---
