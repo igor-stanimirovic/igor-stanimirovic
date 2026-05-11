@@ -60,12 +60,12 @@ Interested in scientific software
 - SQL
 - Pandas
 
---->
+
 - PyQt
 - ReportLab
 
 ---
-
+--->
 ## Contact
 
 Based in Bosnia / Serbia  
